@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Abstract}{3}
+\contentsline {section}{\numberline {2}Introduction}{4}
+\contentsline {subsection}{\numberline {2.1}\textit {Acropora} Growth Through Propagation}{4}
+\contentsline {section}{\numberline {3}The Equation for Modeling Polyp Growth}{5}
+\contentsline {subsection}{\numberline {3.1}Malthusian Growth Model}{6}
+\contentsline {section}{\numberline {4}Modeling Growth using the Solution}{7}
+\contentsline {subsection}{\numberline {4.1}Solving for $P(t)$}{7}
+\contentsline {subsection}{\numberline {4.2}Finding the Growth Rate Constant $k$}{7}
+\contentsline {subsection}{\numberline {4.3}Growth Estimation}{8}
+\contentsline {subsection}{\numberline {4.4}Matlab Estimation}{9}
+\contentsline {section}{\numberline {5}Conclusion}{10}
+\contentsline {section}{References}{11}
